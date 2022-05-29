@@ -20,3 +20,6 @@ gcc cpp/h.cc -lstdc++ && ./a.out && rm a.out
 
 # C#
 # TODO
+
+# Semby
+semby run semby/h.sem --vm gosemby
